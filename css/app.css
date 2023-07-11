@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-    background-image: url(../../public/img/istockphoto-1285395672-612x612.jpg);
+    background-image: url(../public/img/istockphoto-1285395672-612x612.jpg);
     background-size: cover;
     height: 100vh;
     overflow-x: hidden;
